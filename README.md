@@ -21,7 +21,7 @@ Within these files is all the code for the demonstration of Pyviz.
 2. [Dashboard](https://github.com/muramemory/FinTech---Pyviz/blob/main/Complete%20Work/Code/dashboard.ipynb)  
 
 
-
+To view the dashboard seemlessly, click here!  > https://nbviewer.org/github/muramemory/FinTech---Pyviz/blob/main/Complete%20Work/Code/dashboard.ipynb
 
 
 # Overview
