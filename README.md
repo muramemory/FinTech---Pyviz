@@ -10,7 +10,11 @@ Inside the folder 'Complete Work':
 
 ![complete_work](https://user-images.githubusercontent.com/94953794/153741335-65913a78-caaf-49aa-b919-39465a459c36.jpg)
 
-There is a folder called 'Code'. This folder contains the rental analysis and dashboard kernels. 
+There is a folder called 'Code'. 
+
+![code](https://user-images.githubusercontent.com/94953794/153743723-16fa4067-7fe9-4653-aab4-6d890d8d1ebb.jpg)
+
+This folder contains the rental analysis and dashboard kernels. 
 Within these files is all the code for the demonstration of Pyviz.
 
 ![data_list](https://user-images.githubusercontent.com/94953794/153741336-1a9258d6-434d-419e-abc2-a00b96e96748.jpg)
