@@ -1,4 +1,4 @@
-# FinTech---Pyviz
+# Fintech---Pyviz
 
 ![toronto-main-data](https://user-images.githubusercontent.com/94953794/153741332-7cf3cab0-dd14-431c-8dfc-2317a65fccf0.jpg)
 
